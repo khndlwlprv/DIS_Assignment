@@ -1,0 +1,16 @@
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\bin\Debug\net5.0\Assignment2_U98588719_PK.exe
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\bin\Debug\net5.0\Assignment2_U98588719_PK.deps.json
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\bin\Debug\net5.0\Assignment2_U98588719_PK.runtimeconfig.json
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\bin\Debug\net5.0\Assignment2_U98588719_PK.runtimeconfig.dev.json
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\bin\Debug\net5.0\Assignment2_U98588719_PK.dll
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\bin\Debug\net5.0\ref\Assignment2_U98588719_PK.dll
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\bin\Debug\net5.0\Assignment2_U98588719_PK.pdb
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\obj\Debug\net5.0\Assignment2_U98588719_PK.csproj.AssemblyReference.cache
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\obj\Debug\net5.0\Assignment2_U98588719_PK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\obj\Debug\net5.0\Assignment2_U98588719_PK.AssemblyInfoInputs.cache
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\obj\Debug\net5.0\Assignment2_U98588719_PK.AssemblyInfo.cs
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\obj\Debug\net5.0\Assignment2_U98588719_PK.csproj.CoreCompileInputs.cache
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\obj\Debug\net5.0\Assignment2_U98588719_PK.dll
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\obj\Debug\net5.0\ref\Assignment2_U98588719_PK.dll
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\obj\Debug\net5.0\Assignment2_U98588719_PK.pdb
+C:\Users\Purva\source\repos\Assignment2_U98588719_PK\obj\Debug\net5.0\Assignment2_U98588719_PK.genruntimeconfig.cache
